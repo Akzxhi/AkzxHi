@@ -1,4 +1,5 @@
 Hello! I'm Akzx
+
 In a world of surveillance and noise, I chose silence.
 Cybersecurity isn’t just a career—it’s a mindset.
 7 years behind firewalls, inside exploits, beneath the surface.
