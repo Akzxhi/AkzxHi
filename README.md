@@ -10,6 +10,7 @@ I don’t offer fame, only guidance—quiet, encrypted, and real.
 
 
 
+
   <div style="display: inline_block"><br>
   <img align="center" alt="K" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="M" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
