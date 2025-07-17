@@ -1,4 +1,6 @@
-Hello! I'm Akzx
+Hello! I'm Ak
+
+Developer Backend | Java | Spring Boot | Spring Security + JWT | REST APIs | Docker | MySQL | CI/CD
 
 In a world shaped by surveillance and complexity, I chose discretion. Cybersecurity isn’t just a profession—it’s a discipline and a way of thinking. Over the past seven years, I’ve navigated firewalls, analyzed vulnerabilities, and worked behind the scenes to understand and protect. This GitHub represents a quiet signal in the digital stream—no identity, no face, just a commitment to purposeful code and a drive to maintain balance. If you’ve arrived here, it’s likely no coincidence. I don’t seek recognition, only to provide thoughtful, precise, and secure solutions—deliberate, encrypted, and steadfast.
 
